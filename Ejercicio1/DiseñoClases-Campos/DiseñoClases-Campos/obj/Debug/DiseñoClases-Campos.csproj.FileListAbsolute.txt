@@ -1,0 +1,6 @@
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\DiseñoClases-Campos\DiseñoClases-Campos\bin\Debug\DiseñoClases-Campos.exe.config
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\DiseñoClases-Campos\DiseñoClases-Campos\bin\Debug\DiseñoClases-Campos.exe
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\DiseñoClases-Campos\DiseñoClases-Campos\bin\Debug\DiseñoClases-Campos.pdb
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\DiseñoClases-Campos\DiseñoClases-Campos\obj\Debug\DiseñoClases-Campos.csprojResolveAssemblyReference.cache
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\DiseñoClases-Campos\DiseñoClases-Campos\obj\Debug\DiseñoClases-Campos.exe
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\DiseñoClases-Campos\DiseñoClases-Campos\obj\Debug\DiseñoClases-Campos.pdb
