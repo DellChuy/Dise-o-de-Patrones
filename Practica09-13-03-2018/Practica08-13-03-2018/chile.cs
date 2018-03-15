@@ -8,8 +8,10 @@ namespace Practica08_13_03_2018
 {
     class chile:Ingredientes
     {
-        public chile()
+        pizza mipizza;
+        public chile(pizza pizza)
         {
+            mipizza = pizza;
             nombre = "Chile";
         }
     }

@@ -8,8 +8,10 @@ namespace Practica08_13_03_2018
 {
     class tomate:Ingredientes
     {
-        public tomate()
+        pizza mipizza;
+        public tomate(pizza pizza)
         {
+            mipizza = pizza;
             nombre = "Salsa de tomate";
         }
     }

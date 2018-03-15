@@ -16,48 +16,48 @@ namespace Practica08_13_03_2018
                 case "peperoni":
                     mipizza = new panGrueso();
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new tomate();
+                    mipizza = new tomate(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new queso();
+                    mipizza = new queso(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new peperoni();
+                    mipizza = new peperoni(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
 
                     break;
                 case "especial":
                     mipizza = new panDelgado();
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new tomate();
+                    mipizza = new tomate(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new queso();
+                    mipizza = new queso(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new peperoni();
+                    mipizza = new peperoni(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new carnes();
+                    mipizza = new carnes(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new chile();
+                    mipizza = new chile(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
                     break;
                 case "mexicana":
                     mipizza = new panCrujiente();
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new frijol();
+                    mipizza = new frijol(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new queso();
+                    mipizza = new queso(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new carnes();
+                    mipizza = new carnes(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new chile();
+                    mipizza = new chile(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
                     break;
                 default:
                     mipizza = new panGrueso();
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new tomate();
+                    mipizza = new tomate(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new queso();
+                    mipizza = new queso(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
-                    mipizza = new peperoni();
+                    mipizza = new peperoni(mipizza);
                     Console.WriteLine(mipizza.getnommbre());
                     break;
             }

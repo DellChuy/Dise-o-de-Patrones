@@ -8,8 +8,10 @@ namespace Practica08_13_03_2018
 {
     class carnes:Ingredientes
     {
-        public carnes()
+        pizza mipizza;
+        public carnes(pizza pizza)
         {
+            mipizza = pizza;
             nombre = "Carnes";
         }
     }

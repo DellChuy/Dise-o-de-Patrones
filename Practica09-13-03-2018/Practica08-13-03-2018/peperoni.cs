@@ -8,8 +8,11 @@ namespace Practica08_13_03_2018
 {
     class peperoni:Ingredientes
     {
-        public peperoni()
+        pizza mipizza;
+        public peperoni(pizza pizza)
+
         {
+            mipizza = pizza;
             nombre = "peperoni";
         }
     }

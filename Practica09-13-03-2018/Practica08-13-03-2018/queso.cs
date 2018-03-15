@@ -8,8 +8,10 @@ namespace Practica08_13_03_2018
 {
     class queso:Ingredientes
     {
-        public queso()
+        pizza mipizza;
+        public queso(pizza pizza)
         {
+            mipizza = pizza;
             nombre = "Queso";
         }
     }

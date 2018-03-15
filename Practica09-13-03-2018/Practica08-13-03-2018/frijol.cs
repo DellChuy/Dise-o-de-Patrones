@@ -8,8 +8,10 @@ namespace Practica08_13_03_2018
 {
     class frijol:Ingredientes
     {
-        public frijol()
+        pizza mipizza;
+        public frijol(pizza pizza)
         {
+            mipizza = pizza;
             nombre = "salsa de frijol";
         }
     }
