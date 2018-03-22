@@ -1,0 +1,12 @@
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10\18-03-20-Practica10\bin\Debug\18-03-20-Practica10.exe.config
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10\18-03-20-Practica10\bin\Debug\18-03-20-Practica10.exe
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10\18-03-20-Practica10\bin\Debug\18-03-20-Practica10.pdb
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10\18-03-20-Practica10\obj\Debug\18-03-20-Practica10.csprojResolveAssemblyReference.cache
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10\18-03-20-Practica10\obj\Debug\18-03-20-Practica10.exe
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10\18-03-20-Practica10\obj\Debug\18-03-20-Practica10.pdb
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10V2\18-03-20-Practica10\bin\Debug\18-03-20-Practica10.exe.config
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10V2\18-03-20-Practica10\obj\Debug\18-03-20-Practica10.exe
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10V2\18-03-20-Practica10\obj\Debug\18-03-20-Practica10.pdb
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10V2\18-03-20-Practica10\bin\Debug\18-03-20-Practica10.exe
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10V2\18-03-20-Practica10\bin\Debug\18-03-20-Practica10.pdb
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-03-20-Practica10V2\18-03-20-Practica10\obj\Debug\18-03-20-Practica10.csprojResolveAssemblyReference.cache
