@@ -1,0 +1,6 @@
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-04-04-Practica14\18-04-04-Practica14\bin\Debug\18-04-04-Practica14.exe.config
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-04-04-Practica14\18-04-04-Practica14\bin\Debug\18-04-04-Practica14.exe
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-04-04-Practica14\18-04-04-Practica14\bin\Debug\18-04-04-Practica14.pdb
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-04-04-Practica14\18-04-04-Practica14\obj\Debug\18-04-04-Practica14.csprojResolveAssemblyReference.cache
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-04-04-Practica14\18-04-04-Practica14\obj\Debug\18-04-04-Practica14.exe
+C:\Users\jesus\Desktop\Cetys Universidad ICC\Semestre VI\Programacion Avanzada Orientada a Objetos\18-04-04-Practica14\18-04-04-Practica14\obj\Debug\18-04-04-Practica14.pdb
